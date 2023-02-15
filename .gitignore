@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# Visual Studio auto-generated files
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+*.VC.db
+*.VC.VC.opendb
+*dtbcache.v2
+
+# .NET core
+*.runtimeconfig.json
+
+# User-specific files
+*.user
+*.sln.docstates
+
+# IDEs and editor-generated files
+.vs/
+*.DS_Store
+*.idea/
+.vscode/
+*.tmproj
